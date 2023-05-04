@@ -19,5 +19,6 @@
 }
 
 .content__description > p {
+  margin: 5px;
   color: rgb(133, 130, 130);
 }
